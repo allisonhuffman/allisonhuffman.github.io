@@ -2282,7 +2282,7 @@ input, select, textarea {
 
 	::-moz-placeholder {
 		opacity: 1.0;
-		color: #ff !important;
+		color: #ffffff !important;
 	}
 
 	:-ms-input-placeholder {
@@ -2498,7 +2498,7 @@ input, select, textarea {
 		.image.main {
 			display: block;
 			margin: 3rem 0;
-			width: 100%;
+			width: 800px;
 		}
 
 			.image.main img {
