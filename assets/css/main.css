@@ -103,7 +103,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: rgb(52, 81, 63);
 		overflow-x: hidden;
 	}
 
@@ -161,6 +161,10 @@ input, select, textarea {
 		color: #000000;
 	}
 
+	p.side, strong.side {
+		color: #ffffff; 
+	}
+
 	body, input, select, textarea {
 		color: #000000;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
@@ -176,7 +180,7 @@ input, select, textarea {
 		-ms-transition: border-bottom-color 0.25s ease-in-out;
 		transition: border-bottom-color 0.25s ease-in-out;
 		text-decoration: none;
-		color: rgb(52, 81, 63);
+		color: #ffffff;
 		border-bottom: dotted 1px;
 	}
 
@@ -1963,7 +1967,7 @@ input, select, textarea {
 		.button.primary {
 			background-color: rgb(52, 81, 63);
 			box-shadow: none;
-			color: #fff !important;
+			color: #ffffff !important;
 		}
 
 			input[type="submit"].primary:hover,
@@ -2141,7 +2145,7 @@ input, select, textarea {
 		}
 
 	label {
-		color: #ffffff;
+		color: rgb(52, 81, 63);
 		display: block;
 		font-family: "Raleway", Helvetica, sans-serif;
 		font-size: 0.75rem;
@@ -2272,17 +2276,17 @@ input, select, textarea {
 
 	::-webkit-input-placeholder {
 		opacity: 1.0;
-		color: #ffffff !important;
+		color: #4e4a4a !important;
 	}
 
 	:-moz-placeholder {
 		opacity: 1.0;
-		color: #ffffff !important;
+		color: #4e4a4a !important;
 	}
 
 	::-moz-placeholder {
 		opacity: 1.0;
-		color: #ffffff !important;
+		color: #4e4a4a !important;
 	}
 
 	:-ms-input-placeholder {
